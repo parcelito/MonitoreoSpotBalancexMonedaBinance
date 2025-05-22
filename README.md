@@ -5,8 +5,6 @@
 
 Aplicación gráfica para monitorear balances de criptomonedas en tiempo real con análisis de mercado simulados con IA.
 
-![Demo de la aplicación](https://via.placeholder.com/800x400?text=Demo+Monitor+Cripto+GUI) *(Imagen ilustrativa)*
-
 ## 🌟 Características principales
 
 - 📊 **Seguimiento de precios en tiempo real** usando la API de Binance
